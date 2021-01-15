@@ -15,7 +15,11 @@ Welcome to my world!
 
 
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
+
+
+
+
 
 
 ### 🤝🏻 Connect with Me 
