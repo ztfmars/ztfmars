@@ -24,7 +24,8 @@ Welcome to my world!
 
 ### 🤝🏻 Connect with Me 
 <p align="left">
-<a href="https://ztfmars.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome"></a><a href="https://www.linkedin.com/in/tengfei-zhang-020227147/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ztfmars-blue?style=flat&logo=linkedin"></a>
+<a href="https://ztfmars.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/tengfei-zhang-020227147/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ztfmars-blue?style=flat&logo=linkedin"></a>
 <a href="https://blog.csdn.net/weixin_42237113?spm=1000.2115.3001.5343" target="_blank"><img alt="CSDN Blog" src="https://img.shields.io/badge/Blog-CSDN%20Blog-blue?style=flat&logo=CSDN"></a>
 <a href="ztfmars@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ztfmars@163.com-blue?style=flat&logo=gmail"></a>
 </p>
