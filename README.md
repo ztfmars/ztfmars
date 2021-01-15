@@ -11,7 +11,7 @@ Welcome to my world!
 
 ### Github Stats
 
-[![ztfmars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztfmars&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![ztfmars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztfmars&show_icons=true&count_private=true)](https://github.com/ztfmars)
 
 
 
