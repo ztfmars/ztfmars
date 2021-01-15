@@ -1,10 +1,10 @@
-### Better late than never 👋
+## Better late than never 👋
 
 ### hi, I am ztfmars!
-I am a CV Algorithm Engineer. Nice to meet you here, my friend!
+Nice to meet you here, my friend!
 Welcome to my world! 
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 - 💻:   ![Python](https://img.shields.io/badge/python-3-blue) | ![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-language-yellow?style=flat&logo=c++) | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)| 
 - 🔧:   ![Keras](https://img.shields.io/badge/Frame-keras-blue?style=plastic&logo=appveyor) | ![Pytorch](https://img.shields.io/badge/Frame-pytorch-blue?style=plastic&logo=appveyor) | ![Tensorflow](https://img.shields.io/badge/Frame-Tensorflow-blue?style=plastic&logo=appveyor)
 - 🔭: Machine learning | CV | GAN | AIOT
@@ -12,6 +12,11 @@ Welcome to my world!
 ### Github Stats
 
 [![ztfmars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztfmars&show_icons=true&count_private=true)](https://github.com/anandmainali)
+
+
+
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 ### 🤝🏻 Connect with Me 
 <p align="left">
