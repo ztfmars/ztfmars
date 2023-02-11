@@ -7,7 +7,7 @@ Welcome to my world!
 ### 🛠 Tech Stack
 - 💻:   ![Python](https://img.shields.io/badge/python-3-blue) | ![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-language-yellow?style=flat&logo=c++) | ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)| 
 - 🔧:   ![Keras](https://img.shields.io/badge/Frame-keras-blue?style=plastic&logo=appveyor) | ![Pytorch](https://img.shields.io/badge/Frame-pytorch-blue?style=plastic&logo=appveyor) | ![Tensorflow](https://img.shields.io/badge/Frame-Tensorflow-blue?style=plastic&logo=appveyor)
-- 🔭: Machine learning | CV | GAN | AIOT
+- 🔭: DL & Machine Learning |  2d&3d Detection | Segmentation | AIOT | Model deploy
 
 ### Github Stats
 
